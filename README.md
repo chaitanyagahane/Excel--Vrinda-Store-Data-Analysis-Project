@@ -1,2 +1,5 @@
-# Excel--Vrinda-Store-Data-Analysis-Project
-Vrinda Store analysis and Dashboard using Advanced Excel
+# Excel- Vrinda Store Data Analysis 
+Data and files related to Excel tutorial videos on Rishabh Mishra's youtube channel 
+
+## Watch videos related to data analytics project: 
+https://www.youtube.com/watch?v=gTK5rNhWJyA 
